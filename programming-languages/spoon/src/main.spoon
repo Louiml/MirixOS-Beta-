@@ -1,0 +1,4 @@
+header_func main()
+{
+    knife.print("test") END
+}
