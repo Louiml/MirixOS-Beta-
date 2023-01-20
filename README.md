@@ -1,2 +1,2 @@
 ### My first server operating system called MirixOS
-#### Thanks to some user from GitHub 
+#### Thanks to some users from GitHub 
